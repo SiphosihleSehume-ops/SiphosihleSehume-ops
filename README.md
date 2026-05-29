@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiphosihleSehume-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Hey%20I'm%20Siphosihle&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=FFFFFF)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiphosihleSehume-ops&layout=compact&theme=tokyonight)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,gitlab,discord,nextjs,python,java,nodejs,git,docker&perline=8)](https://skillicons.dev)
