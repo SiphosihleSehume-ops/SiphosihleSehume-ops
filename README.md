@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hello+World!+👋;I'm+a+Software++Engineer;I+love+innovation+that+excites+and+brings+longlasting+value+for+society+cool+things)](https://git.io/typing-svg)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiphosihleSehume-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiphosihleSehume-ops&layout=compact&theme=tokyonight)
