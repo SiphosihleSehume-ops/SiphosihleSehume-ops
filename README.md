@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiphosihleSehume-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiphosihleSehume-ops&layout=compact&theme=tokyonight)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,gitlab,discord,nextjs,python,java,nodejs,git,docker&perline=8)](https://skillicons.dev)
