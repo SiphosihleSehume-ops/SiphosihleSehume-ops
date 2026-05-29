@@ -1,24 +1,28 @@
-## Hi there 👋
 
-<!--
-**SiphosihleSehume-ops/SiphosihleSehume-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiphosihleSehume-ops&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Here are some ideas to get you started:
+<!-- Wave header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Hi%20I'm%20Siphosihle&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hello+World!+👋;I'm+a+Software++Engineer;I+love+innovation+that+excites+and+brings+longlasting+value+for+society+cool+things)](https://git.io/typing-svg)
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Software+Engineer+in+training.;Data,+AI+Enthusiast!;Always+learning+new+things)](https://git.io/typing-svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiphosihleSehume-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<!-- About section -->
+## 👋 About Me
+- 🔭 I'm currently working on Hackerthon projects!
+- 🌱 I'm learning Java, SpringBoot as well as Docker
+- 💬 Ask me about anything tech related I am sure to try my best to give you an answer
+- 📫 Reach me at: lukelevii7@gmail.com
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Hey%20I'm%20Siphosihle&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=FFFFFF)
+<!-- Skills -->
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,python,nodejs,git,docker&perline=8)](https://skillicons.dev)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiphosihleSehume-ops&layout=compact&theme=tokyonight)
+<!-- Stats -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SiphosihleSehume-ops&theme=tokyonight" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,gitlab,discord,nextjs,python,java,nodejs,git,docker&perline=8)](https://skillicons.dev)
+<!-- Wave footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=footer)
